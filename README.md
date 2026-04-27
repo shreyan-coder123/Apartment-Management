@@ -58,3 +58,4 @@ For LAN access, allow both localhost and LAN frontend origins in backend `FRONTE
 - Resident queries are filtered by authenticated resident ID
 - `mark-paid` uses a conditional update to avoid duplicate state transitions
 - SQLite indexes and UUID primary keys reduce collisions/conflicts
+
